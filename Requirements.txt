@@ -5,3 +5,6 @@ Colors
 Emoji
 Vibrant
 Gif
+Lightmode
+Darkmode
+Video options
